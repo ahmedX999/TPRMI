@@ -12,5 +12,7 @@ Architecture Client-Serveur : Le projet repose sur une architecture client-serve
 
 Communication RMI : Le projet intègre la technologie RMI pour rationaliser la communication entre le client et le serveur, garantissant la cohérence des données et la sécurité des transactions.
 
+Demo:
+
 https://github.com/ahmedX999/TPRMI/assets/104841511/a29f9665-15c3-4da7-ae6a-7500b203d93b
 
